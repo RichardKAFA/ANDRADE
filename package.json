@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RichardKAFA/ANDRADE.git"
+    "url": "https://github.com/keickziiin/botdukeke/.git"
   },
   "keywords": [
     "k"
@@ -44,7 +44,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RichardKAFA/ANDRADE/issues"
+    "url": "https://github.com/keickziiin/botdukeke/issues"
   },
-  "homepage": "https://github.com/RichardKAFA/ANDRADE/readme"
+  "homepage": "https://github.com/keickziiin/botdukeke/readme"
 }
