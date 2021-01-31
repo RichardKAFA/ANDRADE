@@ -1,19 +1,3 @@
-const
-{
-   WAConnection,
-   MessageType,
-   Presence,
-   MessageOptions,
-   Mimetype,
-   WALocationMessage,
-   WA_MESSAGE_STUB_TYPES,
-   ReconnectMode,
-   ProxyAgent,
-   GroupSettingChange,
-   waChatKey,
-   mentionedJid,
-   processTime,
-} = require("@adiwajshing/baileys")
 const qrcode = require("qrcode-terminal") 
 const moment = require("moment-timezone") 
 const fs = require("fs") 
